@@ -1,0 +1,206 @@
+
+При подключенном источнике питания ноутбука
+{
+
+    C:\Users\balk0n\CLionProjects\untitled1\cmake-build-debug\untitled1.exe
+
+    5 ms for quickSort, 274 ms for bubbleSort, 135 ms for selectionSort
+
+    3 ms for quickSort, 251 ms for bubbleSort, 143 ms for selectionSort
+
+    5 ms for quickSort, 246 ms for bubbleSort, 120 ms for selectionSort
+
+    4 ms for quickSort, 247 ms for bubbleSort, 127 ms for selectionSort
+
+    5 ms for quickSort, 263 ms for bubbleSort, 131 ms for selectionSort
+
+    5 ms for quickSort, 241 ms for bubbleSort, 130 ms for selectionSort
+
+    4 ms for quickSort, 239 ms for bubbleSort, 124 ms for selectionSort
+
+    5 ms for quickSort, 256 ms for bubbleSort, 125 ms for selectionSort
+
+    6 ms for quickSort, 251 ms for bubbleSort, 124 ms for selectionSort
+
+    5 ms for quickSort, 245 ms for bubbleSort, 121 ms for selectionSort
+
+    6 ms for quickSort, 237 ms for bubbleSort, 132 ms for selectionSort
+
+    5 ms for quickSort, 249 ms for bubbleSort, 125 ms for selectionSort
+
+    5 ms for quickSort, 254 ms for bubbleSort, 120 ms for selectionSort
+
+    5 ms for quickSort, 232 ms for bubbleSort, 133 ms for selectionSort
+
+    5 ms for quickSort, 242 ms for bubbleSort, 127 ms for selectionSort
+
+    5 ms for quickSort, 237 ms for bubbleSort, 132 ms for selectionSort
+
+    4 ms for quickSort, 246 ms for bubbleSort, 119 ms for selectionSort
+
+    3 ms for quickSort, 238 ms for bubbleSort, 123 ms for selectionSort
+
+    5 ms for quickSort, 236 ms for bubbleSort, 118 ms for selectionSort
+
+    6 ms for quickSort, 238 ms for bubbleSort, 123 ms for selectionSort
+
+    2 ms for quickSort, 242 ms for bubbleSort, 117 ms for selectionSort
+
+    5 ms for quickSort, 247 ms for bubbleSort, 125 ms for selectionSort
+
+    5 ms for quickSort, 242 ms for bubbleSort, 121 ms for selectionSort
+
+    5 ms for quickSort, 248 ms for bubbleSort, 120 ms for selectionSort
+
+    5 ms for quickSort, 246 ms for bubbleSort, 122 ms for selectionSort
+
+    3 ms for quickSort, 240 ms for bubbleSort, 119 ms for selectionSort
+
+    5 ms for quickSort, 236 ms for bubbleSort, 125 ms for selectionSort
+
+    5 ms for quickSort, 236 ms for bubbleSort, 121 ms for selectionSort
+
+    4 ms for quickSort, 235 ms for bubbleSort, 122 ms for selectionSort
+
+    5 ms for quickSort, 245 ms for bubbleSort, 123 ms for selectionSort
+
+    4 ms for quickSort, 239 ms for bubbleSort, 125 ms for selectionSort
+
+    5 ms for quickSort, 243 ms for bubbleSort, 121 ms for selectionSort
+
+    3 ms for quickSort, 239 ms for bubbleSort, 120 ms for selectionSort
+
+    5 ms for quickSort, 231 ms for bubbleSort, 118 ms for selectionSort
+
+    2 ms for quickSort, 250 ms for bubbleSort, 120 ms for selectionSort
+
+    6 ms for quickSort, 242 ms for bubbleSort, 126 ms for selectionSort
+
+    3 ms for quickSort, 233 ms for bubbleSort, 129 ms for selectionSort
+
+    3 ms for quickSort, 235 ms for bubbleSort, 120 ms for selectionSort
+
+    3 ms for quickSort, 240 ms for bubbleSort, 125 ms for selectionSort
+
+    3 ms for quickSort, 240 ms for bubbleSort, 122 ms for selectionSort
+
+    5 ms for quickSort, 236 ms for bubbleSort, 121 ms for selectionSort
+
+    5 ms for quickSort, 246 ms for bubbleSort, 125 ms for selectionSort
+
+    5 ms for quickSort, 248 ms for bubbleSort, 123 ms for selectionSort
+
+    3 ms for quickSort, 243 ms for bubbleSort, 126 ms for selectionSort
+
+    5 ms for quickSort, 242 ms for bubbleSort, 121 ms for selectionSort
+
+    3 ms for quickSort, 256 ms for bubbleSort, 125 ms for selectionSort
+
+    5 ms for quickSort, 255 ms for bubbleSort, 120 ms for selectionSort
+
+    4 ms for quickSort, 239 ms for bubbleSort, 132 ms for selectionSort
+
+    5 ms for quickSort, 245 ms for bubbleSort, 118 ms for selectionSort
+
+    5 ms for quickSort, 249 ms for bubbleSort, 121 ms for selectionSort
+
+    3 ms for quickSort, 263 ms for bubbleSort, 124 ms for selectionSort
+
+    6 ms for quickSort, 244 ms for bubbleSort, 121 ms for selectionSort
+
+    5 ms for quickSort, 250 ms for bubbleSort, 127 ms for selectionSort
+
+    4 ms for quickSort, 252 ms for bubbleSort, 126 ms for selectionSort
+
+    3 ms for quickSort, 256 ms for bubbleSort, 123 ms for selectionSort
+
+    3 ms for quickSort, 244 ms for bubbleSort, 121 ms for selectionSort
+
+    3 ms for quickSort, 240 ms for bubbleSort, 120 ms for selectionSort
+
+    3 ms for quickSort, 246 ms for bubbleSort, 123 ms for selectionSort
+
+    3 ms for quickSort, 238 ms for bubbleSort, 132 ms for selectionSort
+
+    5 ms for quickSort, 238 ms for bubbleSort, 120 ms for selectionSort
+
+    6 ms for quickSort, 237 ms for bubbleSort, 120 ms for selectionSort
+
+    5 ms for quickSort, 252 ms for bubbleSort, 125 ms for selectionSort
+
+    3 ms for quickSort, 238 ms for bubbleSort, 121 ms for selectionSort
+
+    5 ms for quickSort, 243 ms for bubbleSort, 128 ms for selectionSort
+
+    3 ms for quickSort, 255 ms for bubbleSort, 139 ms for selectionSort
+
+    6 ms for quickSort, 239 ms for bubbleSort, 125 ms for selectionSort
+
+    5 ms for quickSort, 238 ms for bubbleSort, 126 ms for selectionSort
+
+    6 ms for quickSort, 249 ms for bubbleSort, 125 ms for selectionSort
+
+    3 ms for quickSort, 246 ms for bubbleSort, 121 ms for selectionSort
+
+    4 ms for quickSort, 240 ms for bubbleSort, 127 ms for selectionSort
+
+    5 ms for quickSort, 240 ms for bubbleSort, 122 ms for selectionSort
+
+    3 ms for quickSort, 237 ms for bubbleSort, 127 ms for selectionSort
+
+    5 ms for quickSort, 238 ms for bubbleSort, 123 ms for selectionSort
+
+    3 ms for quickSort, 251 ms for bubbleSort, 128 ms for selectionSort
+
+    5 ms for quickSort, 238 ms for bubbleSort, 125 ms for selectionSort
+
+    5 ms for quickSort, 238 ms for bubbleSort, 126 ms for selectionSort
+
+    4 ms for quickSort, 243 ms for bubbleSort, 121 ms for selectionSort
+
+    5 ms for quickSort, 246 ms for bubbleSort, 122 ms for selectionSort
+
+    3 ms for quickSort, 239 ms for bubbleSort, 135 ms for selectionSort
+
+    5 ms for quickSort, 249 ms for bubbleSort, 124 ms for selectionSort
+
+    5 ms for quickSort, 240 ms for bubbleSort, 121 ms for selectionSort
+
+    3 ms for quickSort, 237 ms for bubbleSort, 120 ms for selectionSort
+
+    4 ms for quickSort, 239 ms for bubbleSort, 121 ms for selectionSort
+
+    5 ms for quickSort, 243 ms for bubbleSort, 126 ms for selectionSort
+
+    3 ms for quickSort, 247 ms for bubbleSort, 118 ms for selectionSort
+
+    5 ms for quickSort, 239 ms for bubbleSort, 126 ms for selectionSort
+
+    5 ms for quickSort, 247 ms for bubbleSort, 120 ms for selectionSort
+
+    4 ms for quickSort, 247 ms for bubbleSort, 130 ms for selectionSort
+
+    5 ms for quickSort, 239 ms for bubbleSort, 121 ms for selectionSort
+
+    3 ms for quickSort, 248 ms for bubbleSort, 133 ms for selectionSort
+
+    5 ms for quickSort, 260 ms for bubbleSort, 128 ms for selectionSort
+
+    4 ms for quickSort, 252 ms for bubbleSort, 132 ms for selectionSort
+
+    5 ms for quickSort, 256 ms for bubbleSort, 129 ms for selectionSort
+
+    4 ms for quickSort, 264 ms for bubbleSort, 133 ms for selectionSort
+
+    3 ms for quickSort, 239 ms for bubbleSort, 130 ms for selectionSort
+
+    5 ms for quickSort, 244 ms for bubbleSort, 124 ms for selectionSort
+
+    5 ms for quickSort, 252 ms for bubbleSort, 135 ms for selectionSort
+
+    4 ms for quickSort, 287 ms for bubbleSort, 135 ms for selectionSort
+
+    4 ms for quickSort, 279 ms for bubbleSort, 129 ms for selectionSort
+
+    4 ms for quickSort, 295 ms for bubbleSort, 145 ms for selectionSort
+}
